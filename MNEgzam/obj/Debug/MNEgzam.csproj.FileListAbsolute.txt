@@ -4,3 +4,9 @@ C:\Users\Aleksanra\documents\visual studio 2015\Projects\MNEgzam\MNEgzam\bin\Deb
 C:\Users\Aleksanra\documents\visual studio 2015\Projects\MNEgzam\MNEgzam\obj\Debug\MNEgzam.csprojResolveAssemblyReference.cache
 C:\Users\Aleksanra\documents\visual studio 2015\Projects\MNEgzam\MNEgzam\obj\Debug\MNEgzam.exe
 C:\Users\Aleksanra\documents\visual studio 2015\Projects\MNEgzam\MNEgzam\obj\Debug\MNEgzam.pdb
+C:\Users\Aleksanra\Documents\MNEgzam\MNEgzam\bin\Debug\MNEgzam.exe.config
+C:\Users\Aleksanra\Documents\MNEgzam\MNEgzam\obj\Debug\MNEgzam.exe
+C:\Users\Aleksanra\Documents\MNEgzam\MNEgzam\obj\Debug\MNEgzam.pdb
+C:\Users\Aleksanra\Documents\MNEgzam\MNEgzam\bin\Debug\MNEgzam.exe
+C:\Users\Aleksanra\Documents\MNEgzam\MNEgzam\bin\Debug\MNEgzam.pdb
+C:\Users\Aleksanra\Documents\MNEgzam\MNEgzam\obj\Debug\MNEgzam.csprojResolveAssemblyReference.cache

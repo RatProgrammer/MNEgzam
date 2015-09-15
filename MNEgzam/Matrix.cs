@@ -182,11 +182,11 @@ namespace MNEgzam
             {
                 x[n-1, i] = y[n-1, i]/U[n-1, n-1];
             }
-            for (int i = n-1; i <= n; i--)
+            for (int i = n-2; i >=0; i--)
             {
                 if(i < 0)
                     break;
-                for (int j = 1; j < n; j++)
+                for (int j = 0; j < n; j++)
                 {
                     for (int k = i; k < n; k++)
                     {
@@ -197,22 +197,7 @@ namespace MNEgzam
                 }
             }
 
-
-            //for (int i = 2; i <= n; i++)
-            //{
-            //    for (int j = 0; j < n; j++)
-            //    {
-            //        for (int k = i-2; k < n-1; k++)
-            //        {
-            //            sumaU += x[k,j]*U[n-i,k];
-            //        }
-            //        x[n-i,j] = (y[n-i,j] - sumaU)/U[n-i, n-i];
-            //        sumaU = 0;
-            //    }
-            //}
-
-
-            return x;
+           return x;
 
         }
     }
